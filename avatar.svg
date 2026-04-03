@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="150" height="150">
+
+  <!-- Outer glow ring -->
+  <circle cx="100" cy="100" r="92" fill="none" stroke="#1e1040" stroke-width="1.5"/>
+
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="86" fill="#0d0d1a"/>
+
+  <!-- Inner border -->
+  <circle cx="100" cy="100" r="84" fill="none" stroke="#2a1a5e" stroke-width="1"/>
+
+  <!-- Orbit path (subtle dashed ring) -->
+  <circle cx="100" cy="100" r="72" fill="none" stroke="#1e1040" stroke-width="1" stroke-dasharray="3 5"/>
+
+  <!-- AY text -->
+  <text x="100" y="118" text-anchor="middle"
+        font-family="JetBrains Mono, Courier New, monospace"
+        font-size="44" font-weight="700"
+        fill="#c9b8ff" letter-spacing="-1">AY</text>
+
+  <!-- Orbiting dot 1 — blue (top) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 100 100" to="360 100 100"
+      dur="3.5s" repeatCount="indefinite"/>
+    <circle cx="172" cy="100" r="7" fill="#7dd3fc"/>
+  </g>
+
+  <!-- Orbiting dot 2 — green (bottom-right) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="120 100 100" to="480 100 100"
+      dur="3.5s" repeatCount="indefinite"/>
+    <circle cx="172" cy="100" r="6" fill="#86efac"/>
+  </g>
+
+  <!-- Orbiting dot 3 — purple (bottom-left) -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="240 100 100" to="600 100 100"
+      dur="3.5s" repeatCount="indefinite"/>
+    <circle cx="172" cy="100" r="6" fill="#c9b8ff"/>
+  </g>
+
+</svg>
