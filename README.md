@@ -81,17 +81,16 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhishek01y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek01y&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishek01y&show_icons=true&theme=tokyonight&hide_border=true"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br/><br/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishek01y&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=abhishek01y&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<br/><br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=abhishek01y&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 ## 🐍 Contribution Snake
 
