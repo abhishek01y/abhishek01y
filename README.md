@@ -116,7 +116,7 @@
 
 <div align="center">
 
-*crafted with ♥ &nbsp;·&nbsp; Abhishek Yadav &nbsp;·&nbsp; CSE @ Chandigarh University*
+*crafted with  &nbsp;·&nbsp; Abhishek Yadav &nbsp;·&nbsp; CSE @ Chandigarh University*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:1e1040,100:0d0d1a&height=80&section=footer" width="100%"/>
 
