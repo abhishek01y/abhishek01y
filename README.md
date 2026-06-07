@@ -27,7 +27,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🚀 &nbsp;Currently building a **Research Paper Project**
+- 🚀 &nbsp;Currently building expertise in **Web Development** and **Data Structures & Algorithms**
 - 🌱 &nbsp;Mastering **Java fundamentals → DSA**
 - 🤝 &nbsp;Open & collaborative — love building with others
 - 💡 &nbsp;**CSE** @ Chandigarh University
