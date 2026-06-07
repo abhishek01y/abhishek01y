@@ -30,7 +30,6 @@
 - 🚀 &nbsp;Currently building a **Research Paper Project**
 - 🌱 &nbsp;Mastering **Java fundamentals → DSA**
 - 🤝 &nbsp;Open & collaborative — love building with others
-- 🎥 &nbsp;**Content Creator** — learning is better when shared
 - 💡 &nbsp;**CSE** @ Chandigarh University
 - 📫 &nbsp;Always open to **internships & collabs**
 - ⚡ &nbsp;Fun fact: I genuinely get excited learning new things — every single day
