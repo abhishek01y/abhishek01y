@@ -66,15 +66,7 @@
 
 ---
 
-## 🔥 LeetCode Stats
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/abhi01y?theme=dark&font=JetBrains%20Mono&ext=activity&border=0" width="500" alt="LeetCode Stats"/>
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -106,7 +98,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-yadav-05a830326/)
-[![LeetCode](https://img.shields.io/badge/My_LeetCode_Profile-fbbf24?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhi01y/)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishek01y)
 
 </div>
